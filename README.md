@@ -31,3 +31,6 @@ Sample Output 1
 3
 10
 1
+
+Direct link to the problem:https://www.codechef.com/problems/LOOP
+Direct link to the submissionhttps:https://www.codechef.com/viewsolution/64761867
